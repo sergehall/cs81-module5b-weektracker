@@ -64,3 +64,5 @@ const myWeek = [
 // 1. I think "Painting" or "Cooking" will have the highest enjoyment rating.
 // 2. The "creative" category seems to dominate my week with 3 activities.
 // 3. I suspect that I enjoy activities more in the evening, especially social ones.
+
+module.exports = { myWeek };
